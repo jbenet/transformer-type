@@ -1,0 +1,30 @@
+{
+  "name": "transformer-type",
+  "version": "0.1.0",
+  "description": "transformer type",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jbenet/transformer-type.git"
+  },
+  "keywords": [
+    "transformer",
+    "core",
+    "type"
+  ],
+  "author": "Juan Benet <juan@benet.ai> (http://juan.benet.ai/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbenet/transformer-type/issues"
+  },
+  "homepage": "https://github.com/jbenet/transformer-type",
+  "dependencies": {
+    "lodash.isobject": "^2.4.1",
+    "lodash.isstring": "^2.4.1",
+    "xtend": "^3.0.0"
+  },
+  "devDependencies": {}
+}
